@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bolt_logo_2019.svg/1200px-Bolt_logo_2019.svg.png" width="200"/>
+<img src="./public/idw_2V0lyO_logos.svg" width="200"/>
 
 # Bolt.eu — Official Website (RP)
 ### 🚗 Roleplay Enterprise Project | Garry's Mod
